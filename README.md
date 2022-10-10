@@ -1,2 +1,1 @@
-# C20
-mobile compatibility
+# C19-SA
